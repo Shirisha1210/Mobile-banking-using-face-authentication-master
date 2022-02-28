@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "785646404466",
+    "project_id": "smartbanking-76304",
+    "storage_bucket": "smartbanking-76304.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785646404466:android:d0499c87c266691fd353eb",
+        "android_client_info": {
+          "package_name": "com.example.FaceNet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785646404466-vpki1q1mo0lkeiv1n91okniihbo6orrm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWR86Ry7SgEB1r2jYX6_m8--yKItm_jIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785646404466-vpki1q1mo0lkeiv1n91okniihbo6orrm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
